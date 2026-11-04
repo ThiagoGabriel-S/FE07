@@ -1,0 +1,16 @@
+.caixa {
+    width: 200px;
+    padding: 10px 30px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.padrao {
+    box-sizing: content-box;
+    background-color: #cfe2ff;
+}
+
+.alterada {
+    box-sizing: border-box;
+    background-color: #e2d9f3;
+}
